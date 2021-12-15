@@ -2,8 +2,8 @@
 
 ### Contents
 * Language Models
-    * Attention(#attention)
-    * Transformer(#Transformer)
+    * [Attention](#attention)
+    * [Transformer](#Transformer)
 
 ### Attention
 
